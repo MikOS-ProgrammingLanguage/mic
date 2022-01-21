@@ -1,0 +1,2 @@
+package-name: test_pkg
+depends: https://github.com/JartC0ding/milk_test.git
